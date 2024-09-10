@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<meta name="viewport" content="width=device-width, initial
+scale=1.0"> 
+<title>Fitness Club</title> 
+<style>
+     body {
+            font-family: Arial, sans-serif;
+             background-color: #f4f4f4;
+        }
+    header {
+            background-color: #000000;
+            color: rgb(255, 255, 255);
+            padding: 20px;
+            text-align: center;
+            font-size: 40px;
+            font-weight: bold;
+        }
+        p1{
+            font-size: 40px;
+            padding: 30px;
+            background-color: #6ca4e3;
+            vertical-align: 95px;
+
+
+        }
+
+    </style>
+</head> 
+<body> 
+<header>
+    OUR COACHERS
+</header>
+
+<br><br><br><img src="https://avatars.mds.yandex.net/i?id=6e558c3321e6b08f702260a90eae556eb54d4c43-3948343-images-thumbs&n=13" width="500" height="380">
+
+<p1><style></style>Alexey Smirnov</p1>
+
+</body> 
+</html>
